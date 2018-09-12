@@ -33,8 +33,8 @@ let outerFilterData = [];
 let topology = [];
 // const PATH_TO_MAP = "http://www.csc.kth.se/~mwallb/exjobb/world110.json";
 // const PATH_TO_CSV = "http://www.csc.kth.se/~mwallb/exjobb/position_label5.csv";
-const PATH_TO_MAP = "../world110.json";
-const PATH_TO_CSV = "../position_label_dbscan.csv";
+const PATH_TO_MAP = "https://github.com/marcuswallberg/visuals/world110.json";
+const PATH_TO_CSV = "https://github.com/marcuswallberg/visuals/position_label_dbscan.csv";
 // const PATH_TO_CSV = "http://127.0.0.1:3000/position_label_dbscan2.csv";
 //////////////////////
 
