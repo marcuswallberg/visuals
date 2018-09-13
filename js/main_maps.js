@@ -191,6 +191,8 @@ function getIndexRange( start, end ) {
 
 // Calls this function once for getting the data. 
 function init(error, inputData, data2) {
+  console.log(error);
+  
   data = inputData;
   topology = data2;
 
